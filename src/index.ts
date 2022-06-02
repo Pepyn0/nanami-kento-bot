@@ -1,1 +1,5 @@
-console.log('hello world')
+import Client from './client'
+
+const client = new Client()
+
+client.init()
