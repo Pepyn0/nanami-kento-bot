@@ -1,0 +1,24 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "next": false,
+      "title": "Estagiário de TI - GRUPO BEXP",
+      "tags": ["suporte", "infra"],
+      "type": ["estagio"],
+      "region": "são paulo",
+      "price": "1 000 a 1 500",
+      "link": "https://www.vagas.com.br/vagas/v2387060/estagiario-de-ti"
+    },
+    {
+      "id": 2,
+      "next": true,
+      "title": "Estágio Tecnologia - PushStart",
+      "tags": ["suporte", "backend", "frontend"],
+      "type": ["estagio"],
+      "region": "SP",
+      "price": "R$ 1 000 a 1 500",
+      "link": "https://pushstart.com.br/pt/jobs/estagio-tecnologia/"
+    }
+  ]
+}
